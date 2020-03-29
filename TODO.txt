@@ -2,5 +2,6 @@ plotting function beshe
 
 - get_csv_rows in utils try except dar biad
 
+toye SaveToDB symbol array az db code haro bgire
 
 
